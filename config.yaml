@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    user1:
+      email: user1@example.com
+      name: User One
+      password: $2b$12$KIXaSmI4UkCMz8kTsmCnuOe/8TZv3J8LUwllnPQyb3TuvB.ueULyW  # 'password1'
+    user2:
+      email: user2@example.com
+      name: User Two
+      password: $2b$12$eImiTXuWVxfM37uY4JANjm98J7aWEb5ydG6vhnAJElWUJeb.B6OJS  # 'password2'
